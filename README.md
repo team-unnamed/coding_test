@@ -10,6 +10,6 @@
 
 |문제|익재|지인|주남|진성|형주|길희|
 |:------|:---:|:---:|:---:|:---:|:---:|:---:|
-|[11727. 타일링2](https://www.acmicpc.net/problem/11727)   |[solution]()|[solution]()|[solution]()|[solution]()|[solution]()|[solution]()|
+|[11727. 2×n 타일링 2](https://www.acmicpc.net/problem/11727)   |[solution]()|[solution]()|[solution]()|[solution]()|[solution]()|[solution]()|
 |[10844. 쉬운 계단수](https://www.acmicpc.net/problem/10844)   |[solution]()|[solution]()|[solution]()|[solution]()|[solution]()|[solution]()|
 |[1699. 제곱수의 합](https://www.acmicpc.net/problem/1699)   |[solution]()|[solution]()|[solution]()|[solution]()|[solution]()|[solution]()|
