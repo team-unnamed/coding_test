@@ -29,9 +29,8 @@
 |문제|익재|지인|주남|진성|형주|길희|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 |[6603. 로또](https://www.acmicpc.net/problem/6603)|||||||
-|[2309. 일곱 난쟁이](https://www.acmicpc.net/problem/2309)|||||||
+|[2309. 일곱 난쟁이](https://www.acmicpc.net/problem/2309)|||||[py](Hyungjoo\2309.py)||
 |[14501. 퇴사](https://www.acmicpc.net/problem/14501)|||||||
-
 
 ## README 작성
 
