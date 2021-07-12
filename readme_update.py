@@ -40,7 +40,8 @@ if __name__ == "__main__":
                 user_solutions = []
                 for solution_path in solutions:
                     file_name, extension = os.path.basename(solution_path).split(".")
-                    user_solutions.append(f"[{extension}]({solution_path})")
+                    converted_path = solution_path.replace("\\", "/")
+                    user_solutions.append(f"[{extension}]({converted_path})")
                 row += "/".join(user_solutions) + "|"
 
             table += row + "\n"
