@@ -53,7 +53,7 @@ if __name__ == "__main__":
 
     with open("footer.md", "r", encoding="utf-8") as footer_md:
         footer = footer_md.read()
-        body = body + "\n" + footer
+        body = body + footer
 
     with open("README.md", "w", encoding="utf-8") as md_out:
         md_out.write(body)
