@@ -23,29 +23,29 @@ if __name__ == "__main__":
         problems = yaml.safe_load(problems_yaml)
 
     body = ""
-for subtitle, prob_list in problems.items():
-    body += f"### {subtitle}\n\n"
+    for subtitle, prob_list in problems.items():
+        body += f"### {subtitle}\n\n"
 
-    table = "|문제|" + "|".join(list(users.keys())) + "|\n"
-    table += "|:---|" + ":---:|" * len(users) + "\n"
+        table = "|문제|" + "|".join(list(users.keys())) + "|\n"
+        table += "|:---|" + ":---:|" * len(users) + "\n"
 
-    for prob_index in prob_list:
-        prob_title = request_problem(prob_index)
-        row = f"|[{prob_index}. {prob_title}](https://www.acmicpc.net/problem/{prob_index})|"
+        for prob_index in prob_list:
+            prob_title = request_problem(prob_index)
+            row = f"|[{prob_index}. {prob_title}](https://www.acmicpc.net/problem/{prob_index})|"
 
-        for user_name, user_info in users.items():
-            user_format = user_info["format"].replace("{prob_index}", f"{prob_index}").replace("{prob_title}", f"{prob_title}")
-            solutions = glob(f"{user_info['dir']}/{user_format}.*")
+            for user_name, user_info in users.items():
+                user_format = user_info["format"].replace("{prob_index}", f"{prob_index}").replace("{prob_title}", f"{prob_title}")
+                solutions = glob(f"{user_info['dir']}/{user_format}.*")
 
-            user_solutions = []
-            for solution_path in solutions:
-                file_name, extension = os.path.basename(solution_path).split(".")
-                user_solutions.append(f"[{extension}]({solution_path})")
-            row += "/".join(user_solutions) + "|"
+                user_solutions = []
+                for solution_path in solutions:
+                    file_name, extension = os.path.basename(solution_path).split(".")
+                    user_solutions.append(f"[{extension}]({solution_path})")
+                row += "/".join(user_solutions) + "|"
 
-        table += row + "\n"
+            table += row + "\n"
 
-    body += table + "\n"
+        body += table + "\n"
 
     with open("header.md", "r", encoding="utf-8") as header_md:
         header = header_md.read()
