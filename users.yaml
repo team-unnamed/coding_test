@@ -1,0 +1,23 @@
+익재:
+  dir: "Ikjae"
+  format: "{prob_index}"
+
+지인:
+  dir: "Jiin"
+  format: "{prob_index}"
+
+주남:
+  dir: "Joons"
+  format: "{prob_index}"
+
+진성:
+  dir: "ssung"
+  format: "{prob_index}"
+
+형주:
+  dir: "Hyungjoo"
+  format: "{prob_index}"
+
+길희:
+  dir: "Gilhee"
+  format: "{prob_index}"
