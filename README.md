@@ -24,6 +24,14 @@
 |[2225. 합분해](https://www.acmicpc.net/problem/2225)|[cpp](Ikjae\2225.cpp)||[py](Joons\2225.py)|[py](ssung\2225.py)|[py](Hyungjoo\2225.py)|[py](Gilhee\2225.py)|
 |[9465. 스티커](https://www.acmicpc.net/problem/9465)|[cpp](Ikjae\9465.cpp)|[py](Jiin\9465.py)|[py](Joons\9465.py)|[py](ssung\9465.py)|[py](Hyungjoo\9465.py)|[py](Gilhee\9465.py)|
 
+### Brute Force 1
+
+|문제|익재|지인|주남|진성|형주|길희|
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+|[6603. 로또](https://www.acmicpc.net/problem/6603)|||||||
+|[2309. 일곱 난쟁이](https://www.acmicpc.net/problem/2309)|||||||
+|[14501. 퇴사](https://www.acmicpc.net/problem/14501)|||||||
+
 
 ## README 작성
 
