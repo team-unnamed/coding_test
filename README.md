@@ -19,7 +19,7 @@
 |[1149. RGB 거리](https://www.acmicpc.net/problem/1149)   |[solution](/Ikjae/1149.cpp)|[solution]()|[solution](Joons/1149.py)|[solution](ssung/1149.py)|[solution](/Hyungjoo/1149.py)|[solution](Gilhee/1149.py)|
 |[1309. 동물원](https://www.acmicpc.net/problem/1309)   |[solution](/Ikjae/1309.cpp)|[solution]()|[solution](Joons/1309.py)|[solution](ssung/1309.py)|[solution](/Hyungjoo/1309.py)|[solution](Gilhee/1309.py)|
 |[2156. 포도주 시식](https://www.acmicpc.net/problem/2156)   |[solution]()|[solution]()|[solution](Joons/2156.py)|[solution](ssung/2156.py)|[solution](/Hyungjoo/2156.py)|[solution](Gilhee/2156.py)|
-|[2225. 합분해](https://www.acmicpc.net/problem/2225)   |[solution]()|[solution]()|[solution]()|[solution](ssung/2225.py)|[solution](/Hyungjoo/2225.py)|[solution](Gilhee/2225.py)|
+|[2225. 합분해](https://www.acmicpc.net/problem/2225)   |[solution]()|[solution]()|[solution](Joons/2225.py)|[solution](ssung/2225.py)|[solution](/Hyungjoo/2225.py)|[solution](Gilhee/2225.py)|
 |[9465. 스티커](https://www.acmicpc.net/problem/9465)   |[solution]()|[solution]()|[solution](Joons/9465.py)|[solution](ssung/9465.py)|[solution](/Hyungjoo/9465.py)|[solution](Gilhee/9465.py)|
 
 ----
