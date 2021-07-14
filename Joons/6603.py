@@ -5,14 +5,6 @@
 import sys
 input = sys.stdin.readline
 
-arr = list(map(int, input().split()))
-k = arr[0]
-arr = arr[1:]
-lotto = [0]*6
-print(k)
-print(arr)
-
-
 
 def dfs(start, depth):
     if depth == 6:
@@ -21,5 +13,15 @@ def dfs(start, depth):
     for i in range(start, k):
         lotto[depth] = str(arr[i])
         dfs(i+1, depth+1)
-dfs(0,0)
+
+while True:
+    arr = list(map(int, input().split()))
+    k = arr[0]
+    if k == 0:
+        break
+    arr = arr[1:]
+    lotto = [0]*6
+
+    dfs(0,0)
+    print()
 

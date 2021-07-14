@@ -28,9 +28,9 @@
 
 |문제|익재|지인|주남|진성|형주|길희|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-|[6603. 로또](https://www.acmicpc.net/problem/6603)||[py](Jiin/6603.py)||[py](ssung/6603.py)|[py](Hyungjoo/6603.py)|[py](Gilhee/6603.py)|
-|[2309. 일곱 난쟁이](https://www.acmicpc.net/problem/2309)|[cpp](Ikjae/2309.cpp)|[py](Jiin/2309.py)||[py](ssung/2309.py)|[py](Hyungjoo/2309.py)|[py](Gilhee/2309.py)|
-|[14501. 퇴사](https://www.acmicpc.net/problem/14501)|[cpp](Ikjae/14501.cpp)|[py](Jiin/14501.py)||[py](ssung/14501.py)|||
+|[6603. 로또](https://www.acmicpc.net/problem/6603)||[py](Jiin/6603.py)|[py](Joons/6603.py)|[py](ssung/6603.py)|[py](Hyungjoo/6603.py)|[py](Gilhee/6603.py)|
+|[2309. 일곱 난쟁이](https://www.acmicpc.net/problem/2309)||[py](Jiin/2309.py)||[py](ssung/2309.py)|[py](Hyungjoo/2309.py)|[py](Gilhee/2309.py)|
+|[14501. 퇴사](https://www.acmicpc.net/problem/14501)|[cpp](Ikjae/14501.cpp)|[py](Jiin/14501.py)||[py](ssung/14501.py)||[py](Gilhee/14501.py)|
 |[14500. 테트로미노](https://www.acmicpc.net/problem/14500)|||||||
 |[14889. 스타트와 링크](https://www.acmicpc.net/problem/14889)|||||||
 |[1107. 리모컨](https://www.acmicpc.net/problem/1107)|||||||
