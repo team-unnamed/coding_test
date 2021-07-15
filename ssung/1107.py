@@ -27,18 +27,14 @@ for b in button:
 
 # 고장난 버튼이 있는지 찾는다.
 def isBroken(channel):
-    if channel == 0:
-        if is_crash[0]:
-            return True
-        else:
-            return False
-
-    while channel:
+    while True:
         if is_crash[channel % 10]:
             return True
-        channel //= 10
 
-    return False
+        channel //= 10
+        if channel <= 0:
+            return False
+
 
 
 shortest = abs(N - 100)
