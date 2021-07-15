@@ -36,7 +36,6 @@ def isBroken(channel):
             return False
 
 
-
 shortest = abs(N - 100)
 for channel in range(1000000):  # 누를 수 있는 채널의 최댓값이 999999
     if isBroken(channel):
