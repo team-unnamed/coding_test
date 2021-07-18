@@ -12,13 +12,13 @@ team_pair = list(combinations([i for i in range(n)], int(n/2)))
 def get_diff(team_1, n):
     team_1_score = 0
     team_2_score = 0
-    for p1 in range(n):
-        if p1 in team_1:
+    for p1 in range(n): 
+        if p1 in team_1: # team_1 의 score 계산
             for p2 in range(n):
                 if p2 in team_1:
                     team_1_score += matrix[p1][p2]
         else:
-            for p2 in range(n):
+            for p2 in range(n): # team_2 의 score 계산 
                 if not(p2 in team_1):
                     team_2_score += matrix[p1][p2]
     return abs(team_1_score - team_2_score)     
