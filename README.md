@@ -36,7 +36,7 @@
 |[1107. 리모컨](https://www.acmicpc.net/problem/1107)|[cpp](Ikjae/1107.cpp)||[py](Joons/1107.py)|[py](ssung/1107.py)|[py](Hyungjoo/1107.py)||
 |[11054. 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)||[py](Jiin/11054.py)|||[py](Hyungjoo/11054.py)||
 |[10971. 외판원 순회 2](https://www.acmicpc.net/problem/10971)|||||||
-|[1759. 암호 만들기](https://www.acmicpc.net/problem/1759)||[py](Jiin/1759.py)|||[py](Hyungjoo/1759.py)||
+|[1759. 암호 만들기](https://www.acmicpc.net/problem/1759)|[cpp](Ikjae/1759.cpp)|[py](Jiin/1759.py)|||[py](Hyungjoo/1759.py)||
 
 ## README 작성
 
