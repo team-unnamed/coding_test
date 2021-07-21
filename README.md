@@ -42,9 +42,9 @@
 
 |문제|익재|지인|주남|진성|형주|길희|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-|[7576. 토마토](https://www.acmicpc.net/problem/7576)|||[py](Joons/7576.py)||||
-|[16929. Two Dots](https://www.acmicpc.net/problem/16929)|||||||
-|[13549. 숨바꼭질 3](https://www.acmicpc.net/problem/13549)|||||||
+|[7576. 토마토](https://www.acmicpc.net/problem/7576)|||[py](Joons/7576.py)|[py](ssung/7576.py)|||
+|[16929. Two Dots](https://www.acmicpc.net/problem/16929)||||[py](ssung/16929.py)|||
+|[13549. 숨바꼭질 3](https://www.acmicpc.net/problem/13549)||||[py](ssung/13549.py)|||
 
 ## README 작성
 
