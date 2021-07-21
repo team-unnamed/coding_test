@@ -6,7 +6,7 @@ start_x, start_y : 시작지점
 cur_x, cur_y : 현재 위치
 direction : 상(0), 하(1), 좌(2), 우(3) 방향 체크
 turn_cnr : 진행방향이 몇번 꺾였는지 체크. 
-           사이클이 되려면 사각형이어야 하므로 turn_cnt >= 4 를 만족해야 하고
+           사이클이 되려면 사각형이어야 하므로(최소 3번 꺾여야 함) turn_cnt >= 3 을 만족해야 하고
            direction이 바뀔 때마다 turn_cnt += 1 해주었다.
 
 """
@@ -35,7 +35,7 @@ def dfs(start_x, start_y, cur_x, cur_y, direction, turn_cnt):
         ny = cur_y + dy[i]
         if (0 <= nx) and (nx < M) and (0 <= ny) and (ny < N):  # 다음 탐색 지점이 게임판 안에 위치해야 한다.
             if isVisited[ny][nx]:
-                if (nx == start_x) and (ny == start_y) and (turn_cnt >= 4):  # 이미 방문했던 노드에 도착했고, 사이클이 존재하면 함수 종료
+                if (nx == start_x) and (ny == start_y) and (turn_cnt >= 3):  # 이미 방문했던 노드에 도착했고, 사이클이 존재하면 함수 종료
                     isCycle = True
                     return
             else:
@@ -51,7 +51,7 @@ def dfs(start_x, start_y, cur_x, cur_y, direction, turn_cnt):
 for y in range(N):
     for x in range(M):
         isVisited[y][x] = True
-        dfs(x, y, x, y, 0, 1)
+        dfs(x, y, x, y, 0, 0)
         if isCycle:
             print("Yes")
             exit(0)
