@@ -1,3 +1,8 @@
+"""
+
+Queue, deque 사용하지 않고 list로 queue처럼 사용시 시간초과 발생.
+
+"""
 import sys
 from collections import deque
 
@@ -17,13 +22,7 @@ def bfs():
         for i in range(4):
             nx = cur_x + dx[i]
             ny = cur_y + dy[i]
-            if (
-                (0 <= nx)
-                and (nx < M)
-                and (0 <= ny)
-                and (ny < N)
-                and (tomato[ny][nx] == 0)
-            ):
+            if (0 <= nx) and (nx < M) and (0 <= ny) and (ny < N) and (tomato[ny][nx] == 0):
                 tomato[ny][nx] = cur_status + 1
                 queue.append([nx, ny])
 
