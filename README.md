@@ -35,8 +35,16 @@
 |[14889. 스타트와 링크](https://www.acmicpc.net/problem/14889)|[cpp](Ikjae/14889.cpp)||[py](Joons/14889.py)|[py](ssung/14889.py)|[py](Hyungjoo/14889.py)||
 |[1107. 리모컨](https://www.acmicpc.net/problem/1107)|[cpp](Ikjae/1107.cpp)||[py](Joons/1107.py)|[py](ssung/1107.py)|[py](Hyungjoo/1107.py)||
 |[11054. 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)||[py](Jiin/11054.py)||[py](ssung/11054.py)|[py](Hyungjoo/11054.py)||
-|[10971. 외판원 순회 2](https://www.acmicpc.net/problem/10971)||||[py](ssung/10971.py)|||
+|[10971. 외판원 순회 2](https://www.acmicpc.net/problem/10971)|[cpp](Ikjae/10971.cpp)|||[py](ssung/10971.py)|||
 |[1759. 암호 만들기](https://www.acmicpc.net/problem/1759)|[cpp](Ikjae/1759.cpp)|[py](Jiin/1759.py)||[py](ssung/1759.py)|[py](Hyungjoo/1759.py)||
+
+### Graph 1
+
+|문제|익재|지인|주남|진성|형주|길희|
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+|[7576. 토마토](https://www.acmicpc.net/problem/7576)|||||||
+|[16292. Three Robots](https://www.acmicpc.net/problem/16292)|||||||
+|[13549. 숨바꼭질 3](https://www.acmicpc.net/problem/13549)|||||||
 
 ## README 작성
 
