@@ -43,7 +43,7 @@
 |문제|익재|지인|주남|진성|형주|길희|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 |[7576. 토마토](https://www.acmicpc.net/problem/7576)|||||||
-|[16292. Three Robots](https://www.acmicpc.net/problem/16292)|||||||
+|[16929. Two Dots](https://www.acmicpc.net/problem/16929)|||||||
 |[13549. 숨바꼭질 3](https://www.acmicpc.net/problem/13549)|||||||
 
 ## README 작성
