@@ -42,9 +42,12 @@
 
 |문제|익재|지인|주남|진성|형주|길희|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-|[7576. 토마토](https://www.acmicpc.net/problem/7576)|||[py](Joons/7576.py)|[py](ssung/7576.py)|[py](Hyungjoo/7576.py)||
+|[7576. 토마토](https://www.acmicpc.net/problem/7576)|[cpp](Ikjae/7576.cpp)||[py](Joons/7576.py)|[py](ssung/7576.py)|[py](Hyungjoo/7576.py)||
 |[16929. Two Dots](https://www.acmicpc.net/problem/16929)||||[py](ssung/16929.py)|||
-|[13549. 숨바꼭질 3](https://www.acmicpc.net/problem/13549)||||[py](ssung/13549.py)|||
+|[13549. 숨바꼭질 3](https://www.acmicpc.net/problem/13549)|[cpp](Ikjae/13549.cpp)|||[py](ssung/13549.py)|||
+|[4963. 섬의 개수](https://www.acmicpc.net/problem/4963)|[cpp](Ikjae/4963.cpp)||||||
+|[16940. BFS 스페셜 저지](https://www.acmicpc.net/problem/16940)|||||||
+|[1261. 알고스팟](https://www.acmicpc.net/problem/1261)|[cpp](Ikjae/1261.cpp)||||||
 
 ## README 작성
 
