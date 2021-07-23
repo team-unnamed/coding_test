@@ -47,7 +47,7 @@
 |[13549. 숨바꼭질 3](https://www.acmicpc.net/problem/13549)|[cpp](Ikjae/13549.cpp)|||[py](ssung/13549.py)|||
 |[4963. 섬의 개수](https://www.acmicpc.net/problem/4963)|[cpp](Ikjae/4963.cpp)||||||
 |[16940. BFS 스페셜 저지](https://www.acmicpc.net/problem/16940)|||||||
-|[1261. 알고스팟](https://www.acmicpc.net/problem/1261)|||||||
+|[1261. 알고스팟](https://www.acmicpc.net/problem/1261)|[cpp](Ikjae/1261.cpp)||||||
 
 ## README 작성
 
