@@ -48,6 +48,8 @@
 |[4963. 섬의 개수](https://www.acmicpc.net/problem/4963)|[cpp](Ikjae/4963.cpp)|||[py](ssung/4963.py)|[py](Hyungjoo/4963.py)||
 |[16940. BFS 스페셜 저지](https://www.acmicpc.net/problem/16940)|||||||
 |[1261. 알고스팟](https://www.acmicpc.net/problem/1261)|[cpp](Ikjae/1261.cpp)|||[py](ssung/1261.py)|[py](Hyungjoo/1261.py)||
+|[2250. 트리의 높이와 너비](https://www.acmicpc.net/problem/2250)|||||||
+|[1967. 트리의 지름](https://www.acmicpc.net/problem/1967)|||||||
 
 ## README 작성
 
