@@ -51,6 +51,14 @@
 |[2250. 트리의 높이와 너비](https://www.acmicpc.net/problem/2250)|[cpp](Ikjae/2250.cpp)|||[py](ssung/2250.py)|||
 |[1967. 트리의 지름](https://www.acmicpc.net/problem/1967)||||[py](ssung/1967.py)|[py](Hyungjoo/1967.py)||
 
+### Greedy 1
+
+|문제|익재|지인|주남|진성|형주|길희|
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+|[11047. 동전 0](https://www.acmicpc.net/problem/11047)||[py](Jiin/11047.py)|||||
+|[10610. 30](https://www.acmicpc.net/problem/10610)||[py](Jiin/10610.py)|||||
+|[12904. A와 B](https://www.acmicpc.net/problem/12904)||[py](Jiin/12904.py)|||||
+
 ## README 작성
 
 `readme_update.py`를 실행해주세요.
