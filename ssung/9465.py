@@ -42,7 +42,10 @@ def solution():
             sticker.append(list(map(int, input().rstrip("\n").split(" "))))
 
         # dynamic programming
-        dp(sticker, n)
+        if len(sticker[0]) > 1:
+            dp(sticker, n)
+        else:
+            print(max(sticker[0][0], sticker[1][0]))
 
 
 if __name__ == "__main__":
