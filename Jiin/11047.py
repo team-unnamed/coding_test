@@ -8,6 +8,7 @@ N, K = map(int, sys.stdin.readline().split())
 cnt = 0
 quotient = 0
 coins = []
+
 for i in range(N):
     coins.append( int(sys.stdin.readline()) )
 
