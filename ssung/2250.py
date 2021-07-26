@@ -36,7 +36,7 @@ def inOrder(cur_node, depth):
     if tree[cur_node][0] != -1:
         inOrder(tree[cur_node][0], depth + 1)
 
-    stats[depth].append(cols)  # 레벨에 따라 거리를 저장해준다. (가장 왼쪽 노드가 0, 가장 오른쪽 노드가 N)
+    stats[depth].append(cols)  # 레벨에 따라 위치를 저장해준다. (가장 왼쪽 노드가 0, 가장 오른쪽 노드가 N)
     cols += 1
 
     if tree[cur_node][1] != -1:
