@@ -42,7 +42,7 @@
 
 |문제|익재|지인|주남|진성|형주|길희|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-|[7576. 토마토](https://www.acmicpc.net/problem/7576)|[cpp](Ikjae/7576.cpp)||[py](Joons/7576.py)|[py](ssung/7576.py)|[py](Hyungjoo/7576.py)|[py](Gilhee/7576.py)|
+|[7576. 토마토](https://www.acmicpc.net/problem/7576)|[cpp](Ikjae/7576.cpp)|[py](Jiin/7576.py)|[py](Joons/7576.py)|[py](ssung/7576.py)|[py](Hyungjoo/7576.py)|[py](Gilhee/7576.py)|
 |[16929. Two Dots](https://www.acmicpc.net/problem/16929)||||[py](ssung/16929.py)||[py](Gilhee/16929.py)|
 |[13549. 숨바꼭질 3](https://www.acmicpc.net/problem/13549)|[cpp](Ikjae/13549.cpp)|||[py](ssung/13549.py)|[py](Hyungjoo/13549.py)|[py](Gilhee/13549.py)|
 |[4963. 섬의 개수](https://www.acmicpc.net/problem/4963)|[cpp](Ikjae/4963.cpp)|[py](Jiin/4963.py)|[py](Joons/4963.py)|[py](ssung/4963.py)|[py](Hyungjoo/4963.py)|[py](Gilhee/4963.py)|
