@@ -46,10 +46,10 @@
 |[16929. Two Dots](https://www.acmicpc.net/problem/16929)||||[py](ssung/16929.py)||[py](Gilhee/16929.py)|
 |[13549. 숨바꼭질 3](https://www.acmicpc.net/problem/13549)|[cpp](Ikjae/13549.cpp)|||[py](ssung/13549.py)|[py](Hyungjoo/13549.py)|[py](Gilhee/13549.py)|
 |[4963. 섬의 개수](https://www.acmicpc.net/problem/4963)|[cpp](Ikjae/4963.cpp)|[py](Jiin/4963.py)|[py](Joons/4963.py)|[py](ssung/4963.py)|[py](Hyungjoo/4963.py)|[py](Gilhee/4963.py)|
-|[16940. BFS 스페셜 저지](https://www.acmicpc.net/problem/16940)|||||||
+|[16940. BFS 스페셜 저지](https://www.acmicpc.net/problem/16940)||||[py](ssung/16940.py)|||
 |[1261. 알고스팟](https://www.acmicpc.net/problem/1261)|[cpp](Ikjae/1261.cpp)|||[py](ssung/1261.py)|[py](Hyungjoo/1261.py)||
 |[2250. 트리의 높이와 너비](https://www.acmicpc.net/problem/2250)|[cpp](Ikjae/2250.cpp)||||||
-|[1967. 트리의 지름](https://www.acmicpc.net/problem/1967)|||||[py](Hyungjoo/1967.py)||
+|[1967. 트리의 지름](https://www.acmicpc.net/problem/1967)||||[py](ssung/1967.py)|[py](Hyungjoo/1967.py)||
 
 ## README 작성
 
