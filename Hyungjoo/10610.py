@@ -1,14 +1,10 @@
 n = input()
 
-if "0" in n:
-    for i in range(len(n)):
-        if n[i] == "0":
-            candidate = n[:i] + n[i + 1:] + "0"
-            if int(candidate) % 30 == 0:
-                print("".join(sorted(candidate, reverse=True)))
-            else:
-                print(-1)
-            break
+candidate = "".join(sorted(n, reverse=True))
+
+if candidate[-1] == "0":
+    if int(candidate[:-1]) % 3 == 0:
+        print(candidate)
     else:
         print(-1)
 else:
