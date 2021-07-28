@@ -49,13 +49,13 @@
 |[16940. BFS 스페셜 저지](https://www.acmicpc.net/problem/16940)||||[py](ssung/16940.py)|||
 |[1261. 알고스팟](https://www.acmicpc.net/problem/1261)|[cpp](Ikjae/1261.cpp)|||[py](ssung/1261.py)|[py](Hyungjoo/1261.py)||
 |[2250. 트리의 높이와 너비](https://www.acmicpc.net/problem/2250)|[cpp](Ikjae/2250.cpp)||[py](Joons/2250.py)|[py](ssung/2250.py)|||
-|[1967. 트리의 지름](https://www.acmicpc.net/problem/1967)||||[py](ssung/1967.py)|[py](Hyungjoo/1967.py)||
+|[1967. 트리의 지름](https://www.acmicpc.net/problem/1967)|[cpp](Ikjae/1967.cpp)|||[py](ssung/1967.py)|[py](Hyungjoo/1967.py)||
 
 ### Greedy 1
 
 |문제|익재|지인|주남|진성|형주|길희|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-|[11047. 동전 0](https://www.acmicpc.net/problem/11047)||[py](Jiin/11047.py)|||[py](Hyungjoo/11047.py)||
+|[11047. 동전 0](https://www.acmicpc.net/problem/11047)|[cpp](Ikjae/11047.cpp)|[py](Jiin/11047.py)|||[py](Hyungjoo/11047.py)||
 |[10610. 30](https://www.acmicpc.net/problem/10610)||[py](Jiin/10610.py)|||[py](Hyungjoo/10610.py)||
 |[12904. A와 B](https://www.acmicpc.net/problem/12904)||[py](Jiin/12904.py)|||[py](Hyungjoo/12904.py)||
 
