@@ -49,7 +49,7 @@
 |[16940. BFS 스페셜 저지](https://www.acmicpc.net/problem/16940)||||[py](ssung/16940.py)|||
 |[1261. 알고스팟](https://www.acmicpc.net/problem/1261)|[cpp](Ikjae/1261.cpp)|||[py](ssung/1261.py)|[py](Hyungjoo/1261.py)||
 |[2250. 트리의 높이와 너비](https://www.acmicpc.net/problem/2250)|[cpp](Ikjae/2250.cpp)||[py](Joons/2250.py)|[py](ssung/2250.py)|||
-|[1967. 트리의 지름](https://www.acmicpc.net/problem/1967)|[cpp]()|||[py](ssung/1967.py)|[py](Hyungjoo/1967.py)||
+|[1967. 트리의 지름](https://www.acmicpc.net/problem/1967)||||[py](ssung/1967.py)|[py](Hyungjoo/1967.py)||
 
 ### Greedy 1
 
