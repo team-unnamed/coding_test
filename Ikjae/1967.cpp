@@ -16,7 +16,7 @@ int post(int node, int weight){
 			nd = st;
 			st = res;
 		}
-		else if(st > res && res > nd) nd = res;
+		else if(st >= res && res > nd) nd = res;
 	}
 	r = max(r, st + nd);
 	return st + weight;
