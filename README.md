@@ -56,7 +56,7 @@
 |문제|익재|지인|주남|진성|형주|길희|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 |[11047. 동전 0](https://www.acmicpc.net/problem/11047)|[cpp](Ikjae/11047.cpp)|[py](Jiin/11047.py)|[py](Joons/11047.py)|[py](ssung/11047.py)|[py](Hyungjoo/11047.py)||
-|[10610. 30](https://www.acmicpc.net/problem/10610)|[cpp](Ikjae/10610.cpp)|[py](Jiin/10610.py)|[py](Joons/10610.py)|[py](ssung/10610.py)|[py](Hyungjoo/10610.py)||
+|[10610. 30](https://www.acmicpc.net/problem/10610)||[py](Jiin/10610.py)|[py](Joons/10610.py)|[py](ssung/10610.py)|[py](Hyungjoo/10610.py)||
 |[12904. A와 B](https://www.acmicpc.net/problem/12904)||[py](Jiin/12904.py)|[py](Joons/12904.py)|[py](ssung/12904.py)|[py](Hyungjoo/12904.py)||
 
 ## README 작성
