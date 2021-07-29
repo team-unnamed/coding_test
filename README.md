@@ -59,8 +59,8 @@
 |[10610. 30](https://www.acmicpc.net/problem/10610)||[py](Jiin/10610.py)|[py](Joons/10610.py)|[py](ssung/10610.py)|[py](Hyungjoo/10610.py)||
 |[12904. A와 B](https://www.acmicpc.net/problem/12904)||[py](Jiin/12904.py)|[py](Joons/12904.py)|[py](ssung/12904.py)|[py](Hyungjoo/12904.py)||
 |[1931. 회의실 배정](https://www.acmicpc.net/problem/1931)||[py](Jiin/1931.py)|||||
-|[2138. 전구와 스위치](https://www.acmicpc.net/problem/2138)|||||||
-|[12970. AB](https://www.acmicpc.net/problem/12970)|[cpp](Ikjae/12970.cpp)||||||
+|[2138. 전구와 스위치](https://www.acmicpc.net/problem/2138)|||[py](Joons/2138.py)||[py](Hyungjoo/2138.py)||
+|[12970. AB](https://www.acmicpc.net/problem/12970)|[cpp](Ikjae/12970.cpp)||||[py](Hyungjoo/12970.py)||
 
 ## README 작성
 
