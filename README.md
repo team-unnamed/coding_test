@@ -63,7 +63,7 @@
 |[12970. AB](https://www.acmicpc.net/problem/12970)|[cpp](Ikjae/12970.cpp)|||[py](ssung/12970.py)|[py](Hyungjoo/12970.py)||
 |[1202. 보석 도둑](https://www.acmicpc.net/problem/1202)|||||||
 |[1285. 동전 뒤집기](https://www.acmicpc.net/problem/1285)|||||||
-|[1541. 잃어버린 괄호](https://www.acmicpc.net/problem/1541)|||||[py](Hyungjoo/1541.py)||
+|[1541. 잃어버린 괄호](https://www.acmicpc.net/problem/1541)|[cpp](Ikjae/1541.cpp)||||[py](Hyungjoo/1541.py)||
 
 ## README 작성
 
