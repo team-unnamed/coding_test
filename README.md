@@ -61,7 +61,7 @@
 |[1931. 회의실 배정](https://www.acmicpc.net/problem/1931)|[cpp](Ikjae/1931.cpp)|[py](Jiin/1931.py)||[py](ssung/1931.py)|[py](Hyungjoo/1931.py)|[py](Gilhee/1931.py)|
 |[2138. 전구와 스위치](https://www.acmicpc.net/problem/2138)|||[py](Joons/2138.py)|[py](ssung/2138.py)|[py](Hyungjoo/2138.py)|[py](Gilhee/2138.py)|
 |[12970. AB](https://www.acmicpc.net/problem/12970)|[cpp](Ikjae/12970.cpp)|[py](Jiin/12970.py)||[py](ssung/12970.py)|[py](Hyungjoo/12970.py)|[py](Gilhee/12970.py)|
-|[1202. 보석 도둑](https://www.acmicpc.net/problem/1202)||||[py](ssung/1202.py)|||
+|[1202. 보석 도둑](https://www.acmicpc.net/problem/1202)||[py](Jiin/1202.py)||[py](ssung/1202.py)|[py](Hyungjoo/1202.py)||
 |[1285. 동전 뒤집기](https://www.acmicpc.net/problem/1285)||||[cpp](ssung/1285.cpp)|||
 |[1541. 잃어버린 괄호](https://www.acmicpc.net/problem/1541)|[cpp](Ikjae/1541.cpp)|[py](Jiin/1541.py)||[py](ssung/1541.py)|[py](Hyungjoo/1541.py)||
 
