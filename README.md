@@ -70,7 +70,7 @@
 |문제|익재|지인|주남|진성|형주|길희|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 |[1780. 종이의 개수](https://www.acmicpc.net/problem/1780)||||[py](ssung/1780.py)|||
-|[1074. Z](https://www.acmicpc.net/problem/1074)|||||||
+|[1074. Z](https://www.acmicpc.net/problem/1074)||||[py](ssung/1074.py)|||
 |[2448. 별 찍기 - 11](https://www.acmicpc.net/problem/2448)||||[py](ssung/2448.py)|||
 
 ## README 작성
