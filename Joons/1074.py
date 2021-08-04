@@ -10,19 +10,22 @@ input = sys.stdin.readline
 exit = sys.exit
 
 N, R, C = map(int,input().split())
-stop = False
+
 
 def divide(row,col,length):
-    global cnt, R, C, stop
+    global cnt, R, C
     for r in range(row,length+row,length//2):
         for c in range(col, length+col, length//2):
-            if length == 2:
-                cnt += 1
+            if (r <= R < r+length//2) and (c <= C < c+length//2): # R,C 가 해당 영역안에 있다면 divide | 탐색 
                 if (r == R) and (c == C):
-                    print(cnt-1)
+                    print(cnt)
                     exit(0)
+                else:
+                    divide(r,c,length//2)
             else:
-                divide(r,c,length//2)
+                cnt += (length//2)**2
+                
+            
 
 divide(0,0,2**N)
                 
