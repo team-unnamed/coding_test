@@ -12,4 +12,14 @@ N = int(input())
 times = [list(map(int, input().split())) for _ in range(N)]
 
 times = sorted( times, key = lambda x : (x[1],x[0]) )
-print(times)
+
+s = 0
+res = 0
+for time in times:
+    start, end = time
+    if s <= start:
+        s = time[1]
+        res += 1
+print(res)
+
+        
