@@ -7,18 +7,20 @@ n 과, row, col 가 주어질때
 cnt = 0
 import sys
 input = sys.stdin.readline
+exit = sys.exit
 
 N, R, C = map(int,input().split())
+stop = False
 
 def divide(row,col,length):
-    global cnt, R, C
-    for c in range(col,length+col,length//2):
-        for r in range(row, length+row, length//2):
+    global cnt, R, C, stop
+    for r in range(row,length+row,length//2):
+        for c in range(col, length+col, length//2):
             if length == 2:
                 cnt += 1
                 if (r == R) and (c == C):
-                    print(cnt)
-                    return None
+                    print(cnt-1)
+                    exit(0)
             else:
                 divide(r,c,length//2)
 
