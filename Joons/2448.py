@@ -18,7 +18,9 @@ k == 4
 """
 1. 최 상단의 트리를 그린다. (시작 위치 중요)
 2. 이를 다음 단계에서 기존의 트리를 가지고 더 붙이는 작업을 한다. 
-하지만 이는 어찌 해야 좋을지 가 의문이다
+공백에 대한 대처
+1. 시작점은 다음 step 일수록 3*2**s, 두번째 이어 붙이는 시작점은 N-3*2**s
+2. 이러한 작업을 할시, 전 step에서 전달된 문자열들은 공백처리가 되어있지 않다. 이러한 점을 보완하고자, update 된 최대길이 만큼 padding
 
       
      *      
@@ -40,6 +42,7 @@ def draw_star(start):
     s.append(' '*(start-2)+'* *'+' ')
     s.append(' '*(start-3)+'*'*5)
     return s
+
 def draw_star_pair(stars,f,s):
     tmp_l = len(stars)
     for i in range(len(stars)):
@@ -60,10 +63,7 @@ def solution(N):
             f *= 2
             s = N-f
     return res
+
 tmp = solution(N)
 for i in tmp:
     print(i)
-# draw_star_pair(draw_star(12),12)
-
-# 6 --> 6-3 // 
-# 12 --> 12-3 --> 12-3-3
