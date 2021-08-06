@@ -39,7 +39,7 @@ dest_y = init_y - dy
 
 def dnc(sx, sy, ex, ey, size, quad):
     """
-    이동시킨 사분면 조각을 찾는다.
+    이동시킨 사분면 조각(목적지의 좌표)을 찾는다.
     sx, sy, ex, ey를 이용해 사분면의 범위를 구한다.
 
     Args:
