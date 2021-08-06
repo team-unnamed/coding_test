@@ -50,6 +50,7 @@ def dnc(sx, sy, ex, ey, size, quad):
         size ([type]): 사분면 조각의 길이
         quad ([type]): 현재의 사분면 체크
     """
+    
     # 목적지에 도착했으면 위치 출력
     if (dest_x == ex) and (dest_y == ey) and (len(quad) == d):
         print(quad)
