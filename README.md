@@ -69,14 +69,14 @@
 
 |문제|익재|지인|주남|진성|형주|길희|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-|[1780. 종이의 개수](https://www.acmicpc.net/problem/1780)|[cpp](Ikjae/1780.cpp)|[py](Jiin/1780.py)|[py](Joons/1780.py)|[py](ssung/1780.py)|[py](Hyungjoo/1780.py)||
-|[1074. Z](https://www.acmicpc.net/problem/1074)|[cpp](Ikjae/1074.cpp)|[py](Jiin/1074.py)|[py](Joons/1074.py)|[py](ssung/1074.py)|[py](Hyungjoo/1074.py)||
+|[1780. 종이의 개수](https://www.acmicpc.net/problem/1780)|[cpp](Ikjae/1780.cpp)|[py](Jiin/1780.py)|[py](Joons/1780.py)|[py](ssung/1780.py)|[py](Hyungjoo/1780.py)|[py](Gilhee/1780.py)|
+|[1074. Z](https://www.acmicpc.net/problem/1074)|[cpp](Ikjae/1074.cpp)|[py](Jiin/1074.py)|[py](Joons/1074.py)|[py](ssung/1074.py)|[py](Hyungjoo/1074.py)|[py](Gilhee/1074.py)|
 |[2448. 별 찍기 - 11](https://www.acmicpc.net/problem/2448)|||[py](Joons/2448.py)|[py](ssung/2448.py)|||
-|[11729. 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)|||[py](Joons/11729.py)|[py](ssung/11729.py)|||
-|[2263. 트리의 순회](https://www.acmicpc.net/problem/2263)||||[py](ssung/2263.py)|[py](Hyungjoo/2263.py)||
-|[1891. 사분면](https://www.acmicpc.net/problem/1891)||||[py](ssung/1891.py)|[py](Hyungjoo/1891.py)||
-|[10816. 숫자 카드 2](https://www.acmicpc.net/problem/10816)|||[py](Joons/10816.py)||[py](Hyungjoo/10816.py)||
-|[1517. 버블 소트](https://www.acmicpc.net/problem/1517)|||||[py](Hyungjoo/1517.py)||
+|[11729. 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)|||[py](Joons/11729.py)|[py](ssung/11729.py)||[py](Gilhee/11729.py)|
+|[2263. 트리의 순회](https://www.acmicpc.net/problem/2263)||||[py](ssung/2263.py)|[py](Hyungjoo/2263.py)|[py](Gilhee/2263.py)|
+|[1891. 사분면](https://www.acmicpc.net/problem/1891)||||[py](ssung/1891.py)|[py](Hyungjoo/1891.py)|[py](Gilhee/1891.py)|
+|[10816. 숫자 카드 2](https://www.acmicpc.net/problem/10816)|||[py](Joons/10816.py)||[py](Hyungjoo/10816.py)|[py](Gilhee/10816.py)|
+|[1517. 버블 소트](https://www.acmicpc.net/problem/1517)|||[py](Joons/1517.py)||[py](Hyungjoo/1517.py)||
 |[1933. 스카이라인](https://www.acmicpc.net/problem/1933)|||||||
 
 ## README 작성
