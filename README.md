@@ -84,8 +84,8 @@
 |문제|익재|지인|주남|진성|형주|길희|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 |[2805. 나무 자르기](https://www.acmicpc.net/problem/2805)|[cpp](Ikjae/2805.cpp)||||[py](Hyungjoo/2805.py)|[py](Gilhee/2805.py)|
-|[2022. 사다리](https://www.acmicpc.net/problem/2022)|||||[py](Hyungjoo/2022.py)||
-|[13397. 구간 나누기 2](https://www.acmicpc.net/problem/13397)|||||||
+|[2022. 사다리](https://www.acmicpc.net/problem/2022)|||||[py](Hyungjoo/2022.py)|[py](Gilhee/2022.py)|
+|[13397. 구간 나누기 2](https://www.acmicpc.net/problem/13397)||||||[py](Gilhee/13397.py)|
 
 ## README 작성
 
