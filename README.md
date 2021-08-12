@@ -31,7 +31,7 @@
 |[6603. 로또](https://www.acmicpc.net/problem/6603)|[cpp](Ikjae/6603.cpp)|[py](Jiin/6603.py)|[py](Joons/6603.py)|[py](ssung/6603.py)|[py](Hyungjoo/6603.py)|[py](Gilhee/6603.py)|
 |[2309. 일곱 난쟁이](https://www.acmicpc.net/problem/2309)|[cpp](Ikjae/2309.cpp)|[py](Jiin/2309.py)|[py](Joons/2309.py)|[py](ssung/2309.py)|[py](Hyungjoo/2309.py)|[py](Gilhee/2309.py)|
 |[14501. 퇴사](https://www.acmicpc.net/problem/14501)|[cpp](Ikjae/14501.cpp)|[py](Jiin/14501.py)|[py](Joons/14501.py)|[py](ssung/14501.py)|[py](Hyungjoo/14501.py)|[py](Gilhee/14501.py)|
-|[14500. 테트로미노](https://www.acmicpc.net/problem/14500)||||[py](ssung/14500.py)|[py](Hyungjoo/14500.py)|[py](Gilhee/14500.py)|
+|[14500. 테트로미노](https://www.acmicpc.net/problem/14500)|[cpp](Ikjae/14500.cpp)|||[py](ssung/14500.py)|[py](Hyungjoo/14500.py)|[py](Gilhee/14500.py)|
 |[14889. 스타트와 링크](https://www.acmicpc.net/problem/14889)|[cpp](Ikjae/14889.cpp)||[py](Joons/14889.py)|[py](ssung/14889.py)|[py](Hyungjoo/14889.py)|[py](Gilhee/14889.py)|
 |[1107. 리모컨](https://www.acmicpc.net/problem/1107)|[cpp](Ikjae/1107.cpp)||[py](Joons/1107.py)|[py](ssung/1107.py)|[py](Hyungjoo/1107.py)|[py](Gilhee/1107.py)|
 |[11054. 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)||[py](Jiin/11054.py)||[py](ssung/11054.py)|[py](Hyungjoo/11054.py)|[py](Gilhee/11054.py)|
@@ -75,17 +75,20 @@
 |[11729. 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)|||[py](Joons/11729.py)|[py](ssung/11729.py)||[py](Gilhee/11729.py)|
 |[2263. 트리의 순회](https://www.acmicpc.net/problem/2263)||||[py](ssung/2263.py)|[py](Hyungjoo/2263.py)|[py](Gilhee/2263.py)|
 |[1891. 사분면](https://www.acmicpc.net/problem/1891)||||[py](ssung/1891.py)|[py](Hyungjoo/1891.py)|[py](Gilhee/1891.py)|
-|[10816. 숫자 카드 2](https://www.acmicpc.net/problem/10816)|||[py](Joons/10816.py)||[py](Hyungjoo/10816.py)|[py](Gilhee/10816.py)|
-|[1517. 버블 소트](https://www.acmicpc.net/problem/1517)|||[py](Joons/1517.py)||[py](Hyungjoo/1517.py)||
-|[1933. 스카이라인](https://www.acmicpc.net/problem/1933)|||||||
+|[10816. 숫자 카드 2](https://www.acmicpc.net/problem/10816)|[cpp](Ikjae/10816.cpp)||[py](Joons/10816.py)||[py](Hyungjoo/10816.py)|[py](Gilhee/10816.py)|
+|[1517. 버블 소트](https://www.acmicpc.net/problem/1517)|||[py](Joons/1517.py)||[py](Hyungjoo/1517.py)|[py](Gilhee/1517.py)|
+|[1933. 스카이라인](https://www.acmicpc.net/problem/1933)||||||[py](Gilhee/1933.py)|
 
 ### Binary Search
 
 |문제|익재|지인|주남|진성|형주|길희|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-|[2805. 나무 자르기](https://www.acmicpc.net/problem/2805)|||||[py](Hyungjoo/2805.py)||
-|[2022. 사다리](https://www.acmicpc.net/problem/2022)|||||[py](Hyungjoo/2022.py)||
-|[13397. 구간 나누기 2](https://www.acmicpc.net/problem/13397)|||||||
+|[2805. 나무 자르기](https://www.acmicpc.net/problem/2805)|[cpp](Ikjae/2805.cpp)|[py](Jiin/2805.py)|||[py](Hyungjoo/2805.py)|[py](Gilhee/2805.py)|
+|[2022. 사다리](https://www.acmicpc.net/problem/2022)|||||[py](Hyungjoo/2022.py)|[py](Gilhee/2022.py)|
+|[13397. 구간 나누기 2](https://www.acmicpc.net/problem/13397)||||||[py](Gilhee/13397.py)|
+|[1654. 랜선 자르기](https://www.acmicpc.net/problem/1654)|||||||
+|[2110. 공유기 설치](https://www.acmicpc.net/problem/2110)|||||||
+|[1300. K번째 수](https://www.acmicpc.net/problem/1300)|||||||
 
 ## README 작성
 
