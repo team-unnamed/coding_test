@@ -75,7 +75,7 @@
 |[11729. 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)|||[py](Joons/11729.py)|[py](ssung/11729.py)||[py](Gilhee/11729.py)|
 |[2263. 트리의 순회](https://www.acmicpc.net/problem/2263)||||[py](ssung/2263.py)|[py](Hyungjoo/2263.py)|[py](Gilhee/2263.py)|
 |[1891. 사분면](https://www.acmicpc.net/problem/1891)||||[py](ssung/1891.py)|[py](Hyungjoo/1891.py)|[py](Gilhee/1891.py)|
-|[10816. 숫자 카드 2](https://www.acmicpc.net/problem/10816)|||[py](Joons/10816.py)||[py](Hyungjoo/10816.py)|[py](Gilhee/10816.py)|
+|[10816. 숫자 카드 2](https://www.acmicpc.net/problem/10816)|[cpp](Ikjae/10816.cpp)||[py](Joons/10816.py)||[py](Hyungjoo/10816.py)|[py](Gilhee/10816.py)|
 |[1517. 버블 소트](https://www.acmicpc.net/problem/1517)|||[py](Joons/1517.py)||[py](Hyungjoo/1517.py)|[py](Gilhee/1517.py)|
 |[1933. 스카이라인](https://www.acmicpc.net/problem/1933)||||||[py](Gilhee/1933.py)|
 
