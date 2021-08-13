@@ -88,7 +88,7 @@
 |[13397. 구간 나누기 2](https://www.acmicpc.net/problem/13397)||||[py](ssung/13397.py)||[py](Gilhee/13397.py)|
 |[1654. 랜선 자르기](https://www.acmicpc.net/problem/1654)||[py](Jiin/1654.py)||[py](ssung/1654.py)|[py](Hyungjoo/1654.py)||
 |[2110. 공유기 설치](https://www.acmicpc.net/problem/2110)||||[py](ssung/2110.py)|[py](Hyungjoo/2110.py)||
-|[1300. K번째 수](https://www.acmicpc.net/problem/1300)||||[py](ssung/1300.py)|||
+|[1300. K번째 수](https://www.acmicpc.net/problem/1300)||||[py](ssung/1300.py)|[py](Hyungjoo/1300.py)||
 
 ## README 작성
 
