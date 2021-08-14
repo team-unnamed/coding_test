@@ -89,6 +89,9 @@
 |[1654. 랜선 자르기](https://www.acmicpc.net/problem/1654)||[py](Jiin/1654.py)||[py](ssung/1654.py)|[py](Hyungjoo/1654.py)||
 |[2110. 공유기 설치](https://www.acmicpc.net/problem/2110)||||[py](ssung/2110.py)|[py](Hyungjoo/2110.py)||
 |[1300. K번째 수](https://www.acmicpc.net/problem/1300)||||[py](ssung/1300.py)|[py](Hyungjoo/1300.py)||
+|[1939. 중량제한](https://www.acmicpc.net/problem/1939)|||||||
+|[1981. 배열에서 이동](https://www.acmicpc.net/problem/1981)|||||||
+|[1561. 놀이 공원](https://www.acmicpc.net/problem/1561)|||||||
 
 ## README 작성
 
