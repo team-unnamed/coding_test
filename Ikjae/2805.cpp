@@ -1,23 +1,25 @@
 #include <bits/stdc++.h>
 using namespace std;
+long long n, m, tree[1'000'000];
 int main(){
-	int n, m, i, cut, arr[1000000];
 	cin >> n >> m;
-	for(i=0;i<n;++i) cin >> arr[i];
-	
-	sort(arr, arr+n, greater<int>());
-	
-	i = 0;
-	cut = arr[0];
-	while(i < n && i * (cut - arr[i]) <= m){
-		m -= i * (cut - arr[i]);
-		cut = arr[i];
-		++i;
+	long long i, l, r, mid, total, ans;
+	l = r = ans = 0;
+	for(i=0;i<n;++i) cin >> tree[i];
+	for(i=0;i<n;++i) r = max(r, tree[i]);
+	while(l <= r){
+		mid = (l + r) / 2;
+		total = 0;
+		for(i=0;i<n;++i){
+			if(tree[i] > mid) total += tree[i] - mid;
+		}
+		if(total >= m){
+			ans = max(ans, mid);
+			l = mid + 1;
+		}else{
+			r = mid - 1;
+		}
 	}
-	if(m > 0){
-		cut -= (m / i);
-		if(m % i != 0) cut -= 1;
-	}
-	cout << cut;
+	cout << ans;
 	return 0;
 }
