@@ -85,11 +85,11 @@
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 |[2805. 나무 자르기](https://www.acmicpc.net/problem/2805)|[cpp](Ikjae/2805.cpp)|[py](Jiin/2805.py)|[py](Joons/2805.py)|[py](ssung/2805.py)|[py](Hyungjoo/2805.py)|[py](Gilhee/2805.py)|
 |[2022. 사다리](https://www.acmicpc.net/problem/2022)||||[py](ssung/2022.py)|[py](Hyungjoo/2022.py)|[py](Gilhee/2022.py)|
-|[13397. 구간 나누기 2](https://www.acmicpc.net/problem/13397)|||[py](Joons/13397.py)|[py](ssung/13397.py)||[py](Gilhee/13397.py)|
+|[13397. 구간 나누기 2](https://www.acmicpc.net/problem/13397)|[cpp](Ikjae/13397.cpp)||[py](Joons/13397.py)|[py](ssung/13397.py)||[py](Gilhee/13397.py)|
 |[1654. 랜선 자르기](https://www.acmicpc.net/problem/1654)||[py](Jiin/1654.py)||[py](ssung/1654.py)|[py](Hyungjoo/1654.py)|[py](Gilhee/1654.py)|
 |[2110. 공유기 설치](https://www.acmicpc.net/problem/2110)||||[py](ssung/2110.py)|[py](Hyungjoo/2110.py)|[py](Gilhee/2110.py)|
 |[1300. K번째 수](https://www.acmicpc.net/problem/1300)||||[py](ssung/1300.py)|[py](Hyungjoo/1300.py)|[py](Gilhee/1300.py)|
-|[1939. 중량제한](https://www.acmicpc.net/problem/1939)|||||||
+|[1939. 중량제한](https://www.acmicpc.net/problem/1939)|||||[py](Hyungjoo/1939.py)||
 |[1981. 배열에서 이동](https://www.acmicpc.net/problem/1981)|||||||
 |[1561. 놀이 공원](https://www.acmicpc.net/problem/1561)|||||||
 
