@@ -91,7 +91,7 @@
 |[1300. K번째 수](https://www.acmicpc.net/problem/1300)|[cpp](Ikjae/1300.cpp)|||[py](ssung/1300.py)|[py](Hyungjoo/1300.py)|[py](Gilhee/1300.py)|
 |[1939. 중량제한](https://www.acmicpc.net/problem/1939)||||[py](ssung/1939.py)|[py](Hyungjoo/1939.py)|[py](Gilhee/1939.py)|
 |[1981. 배열에서 이동](https://www.acmicpc.net/problem/1981)||||[py](ssung/1981.py)|[py](Hyungjoo/1981.py)|[py](Gilhee/1981.py)|
-|[1561. 놀이 공원](https://www.acmicpc.net/problem/1561)||||[py](ssung/1561.py)|||
+|[1561. 놀이 공원](https://www.acmicpc.net/problem/1561)||||[py](ssung/1561.py)||[py](Gilhee/1561.py)|
 
 ## README 작성
 
