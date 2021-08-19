@@ -5,47 +5,45 @@ n = int(input())
 
 Map = []
 
-boundary = [200,0]
 for _ in range(n):
     Map.append(list(map(int, input().rstrip('\n').split())))
-    boundary[0]= min(Map[-1]) if min(Map[-1])<boundary[0] else boundary[0]
-    boundary[1]= max(Map[-1]) if max(Map[-1])>boundary[1] else boundary[1]
 
-def bfs(mid):
-    
-    queue = [(0,0, Map[0][0], Map[0][0])]
+dx = [1,-1,0,0]
+dy = [0,0,1,-1]
+
+def bfs(min_num, max_num):
+    if Map[0][0]<min_num or Map[0][0]>max_num:
+        return False
+    visit = [[0 for _ in range(n)] for _ in range(n)]
+
+    queue = [(0,0)]
+    visit[0][0]=1
+
     while queue:
-        x, y, minimum, maximum = queue.pop(0)
+        x, y= queue.pop(0)
         if x==n-1 and y==n-1:
             return True
 
-        if x+1<n:
-            mini = Map[y][x+1] if Map[y][x+1]<minimum else minimum
-            maxi = Map[y][x+1] if Map[y][x+1]>maximum else maximum
+        for i in range(4):
+            nx = x + dx[i]
+            ny = y + dy[i]
 
-            if maxi-mini<=mid:
-                queue.append((x+1, y, mini, maxi ))
-
-        if y+1<n :
-            mini = Map[y+1][x] if Map[y+1][x]<minimum else minimum
-            maxi = Map[y+1][x] if Map[y+1][x]>maximum else maximum
-
-            if maxi-mini<=mid:
-                queue.append((x, y+1, mini, maxi ))
+            if 0<=nx<n and 0<=ny<n and Map[ny][nx]>=min_num and Map[ny][nx]<=max_num and visit[ny][nx]==0:
+                queue.append((nx, ny))
+                visit[ny][nx]=1
 
     return False
 
-start = 0
-end = boundary[1]-boundary[0]
-answer = boundary[1]-boundary[0]
+min_num = max_num = 0
+limit = max(map(max, Map))
+answer = max(map(max, Map))
 
-while start<=end:
-    mid = (start+end)//2
+while min_num<=limit and max_num<=limit:
 
-    if bfs(mid):
-        answer = mid if answer>mid else answer
-        end = mid-1
+    if bfs(min_num, max_num):
+        answer = answer if (max_num-min_num)>answer else (max_num-min_num)
+        min_num += 1
     else:
-        start = mid+1
+        max_num += 1
 
 print(answer)
