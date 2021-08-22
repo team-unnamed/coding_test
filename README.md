@@ -97,12 +97,12 @@
 
 |문제|익재|지인|주남|진성|형주|길희|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-|[9252. LCS 2](https://www.acmicpc.net/problem/9252)|||||||
+|[9252. LCS 2](https://www.acmicpc.net/problem/9252)||||||[py](Gilhee/9252.py)|
 |[2494. 숫자 맞추기](https://www.acmicpc.net/problem/2494)|||||||
 |[2213. 트리의 독립집합](https://www.acmicpc.net/problem/2213)|||||||
 |[2291. Sequence](https://www.acmicpc.net/problem/2291)|||||||
 |[2201. 이친수 찾기](https://www.acmicpc.net/problem/2201)|||||||
-|[3587. Fund Management](https://www.acmicpc.net/problem/3587)|||||||
+|[3687. 성냥개비](https://www.acmicpc.net/problem/3687)|||||||
 
 ## README 작성
 
