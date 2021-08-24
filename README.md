@@ -109,7 +109,7 @@
 |문제|익재|지인|주남|진성|형주|길희|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 |[1753. 최단경로](https://www.acmicpc.net/problem/1753)||||[py](ssung/1753.py)|||
-|[1238. 파티](https://www.acmicpc.net/problem/1238)|||||||
+|[1238. 파티](https://www.acmicpc.net/problem/1238)||||[py](ssung/1238.py)|||
 |[10473. 인간 대포](https://www.acmicpc.net/problem/10473)|||||||
 
 ## README 작성
