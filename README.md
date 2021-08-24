@@ -99,7 +99,7 @@
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 |[9252. LCS 2](https://www.acmicpc.net/problem/9252)|||[py](Joons/9252.py)|[py](ssung/9252.py)|[py](Hyungjoo/9252.py)|[py](Gilhee/9252.py)|
 |[2494. 숫자 맞추기](https://www.acmicpc.net/problem/2494)|||||||
-|[2213. 트리의 독립집합](https://www.acmicpc.net/problem/2213)|||||||
+|[2213. 트리의 독립집합](https://www.acmicpc.net/problem/2213)||||||[py](Gilhee/2213.py)|
 |[2291. Sequence](https://www.acmicpc.net/problem/2291)|||||||
 |[2201. 이친수 찾기](https://www.acmicpc.net/problem/2201)|||||||
 |[3687. 성냥개비](https://www.acmicpc.net/problem/3687)|||||||
