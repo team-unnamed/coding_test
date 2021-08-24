@@ -97,12 +97,20 @@
 
 |문제|익재|지인|주남|진성|형주|길희|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-|[9252. LCS 2](https://www.acmicpc.net/problem/9252)||||[py](ssung/9252.py)||[py](Gilhee/9252.py)|
+|[9252. LCS 2](https://www.acmicpc.net/problem/9252)|||[py](Joons/9252.py)|[py](ssung/9252.py)|[py](Hyungjoo/9252.py)|[py](Gilhee/9252.py)|
 |[2494. 숫자 맞추기](https://www.acmicpc.net/problem/2494)|||||||
 |[2213. 트리의 독립집합](https://www.acmicpc.net/problem/2213)|||||||
 |[2291. Sequence](https://www.acmicpc.net/problem/2291)|||||||
 |[2201. 이친수 찾기](https://www.acmicpc.net/problem/2201)|||||||
 |[3687. 성냥개비](https://www.acmicpc.net/problem/3687)|||||||
+
+### Dijkstra
+
+|문제|익재|지인|주남|진성|형주|길희|
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+|[1753. 최단경로](https://www.acmicpc.net/problem/1753)|||||||
+|[1238. 파티](https://www.acmicpc.net/problem/1238)|||||||
+|[10473. 인간 대포](https://www.acmicpc.net/problem/10473)|||||||
 
 ## README 작성
 
