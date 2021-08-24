@@ -1,57 +1,37 @@
 """
-가방에는 보석을 하나만 넣을 수 있음
-가방에는 무게 제한이 있음
-보석은 각각 무게와 가치가 있음
-
-가치 높은 순으로 정렬해서 그 보석의 무게와 가방 용랑 차이가 적은 쪽에 담는다
-항상 모든 가방에 보석을 채울 수 있는 건 아니다
-
-가치가 큰 보석을 작은 가방에 넣으면 이득이니까 작은 가방에 들어가는지를 먼저 확인
-
-bisect.bisect(iterable, val) 대상 iterable의 정렬을 유지한 채로 val이 들어갈 수 있는 인덱스를 알려줌
-다시 말해서 val보다 큰 최소값을 돌려준다는 것
-주의! iterable은 정렬된 상태여야 함
-
-iterable 안에 동일한 크기의 값이 여러 개 있을 경우에 bisect를 쓰면 (기본값 right) val이 들어갈 자리를 같은 값들 중 제일 오른쪽으로 잡는다
-그럴 때는 bisect_left 쓰기
-
-틀렸대... 왜? 반례찾아야함
-
-아니면 heapq 알아보기
+가방이랑 보석 둘 다 무게 오름차순으로 정렬
+가방에 들어갈 수 있는 보석 후보(최대 힙으로 만들어)를 추린다 < 이 때 한번 본 보석은 보석 목록에서 빼 버려 어차피 힙에 들어있을 테니까
+가방 하나에 대해 보석 다 봤으면 후보 중에 가치가 가장 높은 보석을 골라 가방에 넣기
+모든 가방에 반복
+근데 이 때 보석 후보를 초기화하면 안 됨! 가방 무게 오름차순으로 정렬했으니까 이전 가방에 들어가는 보석이었으면 다음 가방에도 들어가거든
 """
 
-import sys, bisect
+import sys, heapq
 
 N, K = map(int, sys.stdin.readline().split())
 
 gems = []
 for i in range(N):
     M, V = map(int, sys.stdin.readline().split())
-    gems.append((M,V))
-gems = sorted(gems, key=lambda x: x[1], reverse=True)  # 가치순 정렬
+    gems.append((M, V))
+gems = sorted(gems)
 
 bags = []
 for i in range(K):
     bags.append(int(sys.stdin.readline()))
+bags = sorted(bags)
 
-bags = sorted(bags)  # 작은 용량순으로 정렬
-
-cnt = 0
 stolen = 0
+heap = []
+for bag in bags:
+    while gems and bag >= gems[0][0]:
+        m, v = heapq.heappop(gems)
+        heapq.heappush(heap, -v)  # 최대 힙처럼 동작하게
 
-for gem in gems:
-    LEN = len(bags)
-    gem_m = gem[0]
-    gem_v = gem[1]
-
-    idx = bisect.bisect_left(bags, gem_m)  # 보석 무게보다 가방이 커야 하니까 idx번 가방에 넣기
-
-    if idx != LEN:  # 구한 idx가 LEN이라는 건 그 어떤 가방에도 담을 수 없다는 뜻
-        bags.pop(idx)
-        cnt += 1
-        stolen += gem_v
-
-    if cnt == K:
+    if heap:  # 보석을 못 훔치는 경우도 있음
+        stolen += heapq.heappop(heap)
+    elif not gems:
         break
 
-print(stolen)
+print(-stolen)
+
