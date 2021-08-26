@@ -101,8 +101,8 @@
 |[2494. 숫자 맞추기](https://www.acmicpc.net/problem/2494)|||||||
 |[2213. 트리의 독립집합](https://www.acmicpc.net/problem/2213)||||||[py](Gilhee/2213.py)|
 |[2291. Sequence](https://www.acmicpc.net/problem/2291)||||||[py](Gilhee/2291.py)|
-|[2201. 이친수 찾기](https://www.acmicpc.net/problem/2201)|||||||
-|[3687. 성냥개비](https://www.acmicpc.net/problem/3687)|||||||
+|[2201. 이친수 찾기](https://www.acmicpc.net/problem/2201)||||||[py](Gilhee/2201.py)|
+|[3687. 성냥개비](https://www.acmicpc.net/problem/3687)||||||[py](Gilhee/3687.py)|
 
 ### Dijkstra
 
