@@ -31,11 +31,11 @@
 |[6603. 로또](https://www.acmicpc.net/problem/6603)|[cpp](Ikjae/6603.cpp)|[py](Jiin/6603.py)|[py](Joons/6603.py)|[py](ssung/6603.py)|[py](Hyungjoo/6603.py)|[py](Gilhee/6603.py)|
 |[2309. 일곱 난쟁이](https://www.acmicpc.net/problem/2309)|[cpp](Ikjae/2309.cpp)|[py](Jiin/2309.py)|[py](Joons/2309.py)|[py](ssung/2309.py)|[py](Hyungjoo/2309.py)|[py](Gilhee/2309.py)|
 |[14501. 퇴사](https://www.acmicpc.net/problem/14501)|[cpp](Ikjae/14501.cpp)|[py](Jiin/14501.py)|[py](Joons/14501.py)|[py](ssung/14501.py)|[py](Hyungjoo/14501.py)|[py](Gilhee/14501.py)|
-|[14500. 테트로미노](https://www.acmicpc.net/problem/14500)|[cpp](Ikjae/14500.cpp)|||[py](ssung/14500.py)|[py](Hyungjoo/14500.py)|[py](Gilhee/14500.py)|
+|[14500. 테트로미노](https://www.acmicpc.net/problem/14500)|[cpp](Ikjae/14500.cpp)|[py](Jiin/14500.py)||[py](ssung/14500.py)|[py](Hyungjoo/14500.py)|[py](Gilhee/14500.py)|
 |[14889. 스타트와 링크](https://www.acmicpc.net/problem/14889)|[cpp](Ikjae/14889.cpp)|[py](Jiin/14889.py)|[py](Joons/14889.py)|[py](ssung/14889.py)|[py](Hyungjoo/14889.py)|[py](Gilhee/14889.py)|
 |[1107. 리모컨](https://www.acmicpc.net/problem/1107)|[cpp](Ikjae/1107.cpp)||[py](Joons/1107.py)|[py](ssung/1107.py)|[py](Hyungjoo/1107.py)|[py](Gilhee/1107.py)|
 |[11054. 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)||[py](Jiin/11054.py)||[py](ssung/11054.py)|[py](Hyungjoo/11054.py)|[py](Gilhee/11054.py)|
-|[10971. 외판원 순회 2](https://www.acmicpc.net/problem/10971)||||[py](ssung/10971.py)|[py](Hyungjoo/10971.py)|[py](Gilhee/10971.py)|
+|[10971. 외판원 순회 2](https://www.acmicpc.net/problem/10971)||[py](Jiin/10971.py)||[py](ssung/10971.py)|[py](Hyungjoo/10971.py)|[py](Gilhee/10971.py)|
 |[1759. 암호 만들기](https://www.acmicpc.net/problem/1759)|[cpp](Ikjae/1759.cpp)|[py](Jiin/1759.py)||[py](ssung/1759.py)|[py](Hyungjoo/1759.py)|[py](Gilhee/1759.py)|
 
 ### Graph 1
@@ -111,8 +111,6 @@
 |[1753. 최단경로](https://www.acmicpc.net/problem/1753)|||[py](Joons/1753.py)|[py](ssung/1753.py)|||
 |[1238. 파티](https://www.acmicpc.net/problem/1238)||||[py](ssung/1238.py)|||
 |[10473. 인간 대포](https://www.acmicpc.net/problem/10473)|||||||
-|[1916. 최소비용 구하기](https://www.acmicpc.net/problem/1916)||||[py](ssung/1916.py)|||
-|[4485. 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)|||||||
 
 ## README 작성
 
