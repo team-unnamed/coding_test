@@ -111,6 +111,8 @@
 |[1753. 최단경로](https://www.acmicpc.net/problem/1753)|||[py](Joons/1753.py)|[py](ssung/1753.py)|||
 |[1238. 파티](https://www.acmicpc.net/problem/1238)||||[py](ssung/1238.py)|||
 |[10473. 인간 대포](https://www.acmicpc.net/problem/10473)|||||||
+|[1916. 최소비용 구하기](https://www.acmicpc.net/problem/1916)||||[py](ssung/1916.py)|||
+|[4485. 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)|||||||
 
 ## README 작성
 
