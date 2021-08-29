@@ -113,7 +113,7 @@
 |[10473. 인간 대포](https://www.acmicpc.net/problem/10473)||||||[py](Gilhee/10473.py)|
 |[1916. 최소비용 구하기](https://www.acmicpc.net/problem/1916)||||[py](ssung/1916.py)||[py](Gilhee/1916.py)|
 |[4485. 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)||||[py](ssung/4485.py)||[py](Gilhee/4485.py)|
-|[1504. 특정한 최단 경로](https://www.acmicpc.net/problem/1504)||||||[py](Gilhee/1504.py)|
+|[1504. 특정한 최단 경로](https://www.acmicpc.net/problem/1504)||||[py](ssung/1504.py)||[py](Gilhee/1504.py)|
 |[2211. 네트워크 복구](https://www.acmicpc.net/problem/2211)||||||[py](Gilhee/2211.py)|
 |[1162. 도로포장](https://www.acmicpc.net/problem/1162)||||||[py](Gilhee/1162.py)|
 
