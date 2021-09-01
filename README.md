@@ -117,6 +117,14 @@
 |[2211. 네트워크 복구](https://www.acmicpc.net/problem/2211)|[cpp](Ikjae/2211.cpp)|||||[py](Gilhee/2211.py)|
 |[1162. 도로포장](https://www.acmicpc.net/problem/1162)||||||[py](Gilhee/1162.py)|
 
+### Two Pointers
+
+|문제|익재|지인|주남|진성|형주|길희|
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+|[2230. 수 고르기](https://www.acmicpc.net/problem/2230)|||||||
+|[1484. 다이어트](https://www.acmicpc.net/problem/1484)|||||||
+|[2531. 회전 초밥](https://www.acmicpc.net/problem/2531)|||||||
+
 ## README 작성
 
 `readme_update.py`를 실행해주세요.
