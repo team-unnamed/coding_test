@@ -121,8 +121,8 @@
 
 |문제|익재|지인|주남|진성|형주|길희|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-|[2230. 수 고르기](https://www.acmicpc.net/problem/2230)|||||||
-|[1484. 다이어트](https://www.acmicpc.net/problem/1484)|||||||
+|[2230. 수 고르기](https://www.acmicpc.net/problem/2230)||||||[py](Gilhee/2230.py)|
+|[1484. 다이어트](https://www.acmicpc.net/problem/1484)||||||[py](Gilhee/1484.py)|
 |[2531. 회전 초밥](https://www.acmicpc.net/problem/2531)||||||[py](Gilhee/2531.py)|
 
 ## README 작성
