@@ -43,7 +43,7 @@
 |문제|익재|지인|주남|진성|형주|길희|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 |[7576. 토마토](https://www.acmicpc.net/problem/7576)|[cpp](Ikjae/7576.cpp)|[py](Jiin/7576.py)|[py](Joons/7576.py)|[py](ssung/7576.py)|[py](Hyungjoo/7576.py)|[py](Gilhee/7576.py)|
-|[16929. Two Dots](https://www.acmicpc.net/problem/16929)||||[py](ssung/16929.py)||[py](Gilhee/16929.py)|
+|[16929. Two Dots](https://www.acmicpc.net/problem/16929)||[py](Jiin/16929.py)||[py](ssung/16929.py)||[py](Gilhee/16929.py)|
 |[13549. 숨바꼭질 3](https://www.acmicpc.net/problem/13549)|[cpp](Ikjae/13549.cpp)|||[py](ssung/13549.py)|[py](Hyungjoo/13549.py)|[py](Gilhee/13549.py)|
 |[4963. 섬의 개수](https://www.acmicpc.net/problem/4963)|[cpp](Ikjae/4963.cpp)|[py](Jiin/4963.py)|[py](Joons/4963.py)|[py](ssung/4963.py)|[py](Hyungjoo/4963.py)|[py](Gilhee/4963.py)|
 |[16940. BFS 스페셜 저지](https://www.acmicpc.net/problem/16940)||||[py](ssung/16940.py)||[py](Gilhee/16940.py)|
@@ -124,6 +124,12 @@
 |[2230. 수 고르기](https://www.acmicpc.net/problem/2230)|||||[py](Hyungjoo/2230.py)|[py](Gilhee/2230.py)|
 |[1484. 다이어트](https://www.acmicpc.net/problem/1484)||||||[py](Gilhee/1484.py)|
 |[2531. 회전 초밥](https://www.acmicpc.net/problem/2531)||||||[py](Gilhee/2531.py)|
+|[2293. 동전 1](https://www.acmicpc.net/problem/2293)||||[py](ssung/2293.py)|||
+|[2096. 내려가기](https://www.acmicpc.net/problem/2096)|||||||
+|[2038. 골롱 수열](https://www.acmicpc.net/problem/2038)|||||||
+|[1806. 부분합](https://www.acmicpc.net/problem/1806)|||||||
+|[1644. 소수의 연속합](https://www.acmicpc.net/problem/1644)||||[py](ssung/1644.py)|||
+|[2003. 수들의 합 2](https://www.acmicpc.net/problem/2003)|||||||
 
 ## README 작성
 
