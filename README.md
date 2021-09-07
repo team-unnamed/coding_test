@@ -127,9 +127,9 @@
 |[2293. 동전 1](https://www.acmicpc.net/problem/2293)||||[py](ssung/2293.py)|||
 |[2096. 내려가기](https://www.acmicpc.net/problem/2096)|||||||
 |[2038. 골롱 수열](https://www.acmicpc.net/problem/2038)|||||||
-|[1806. 부분합](https://www.acmicpc.net/problem/1806)|||||||
+|[1806. 부분합](https://www.acmicpc.net/problem/1806)||||[py](ssung/1806.py)|||
 |[1644. 소수의 연속합](https://www.acmicpc.net/problem/1644)||||[py](ssung/1644.py)|||
-|[2003. 수들의 합 2](https://www.acmicpc.net/problem/2003)|||||||
+|[2003. 수들의 합 2](https://www.acmicpc.net/problem/2003)||||[py](ssung/2003.py)|||
 
 ## README 작성
 
