@@ -131,6 +131,20 @@
 |[1644. 소수의 연속합](https://www.acmicpc.net/problem/1644)||||[py](ssung/1644.py)|||
 |[2003. 수들의 합 2](https://www.acmicpc.net/problem/2003)||||[py](ssung/2003.py)|||
 
+### Segment Tree
+
+|문제|익재|지인|주남|진성|형주|길희|
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+|[12015. 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)|||||||
+|[3745. 오름세](https://www.acmicpc.net/problem/3745)|||||||
+|[1365. 꼬인 전깃줄](https://www.acmicpc.net/problem/1365)|||||||
+|[2042. 구간 합 구하기](https://www.acmicpc.net/problem/2042)|||||||
+|[2357. 최솟값과 최댓값](https://www.acmicpc.net/problem/2357)|||||||
+|[1275. 커피숍2](https://www.acmicpc.net/problem/1275)|||||||
+|[12837. 가계부 (Hard)](https://www.acmicpc.net/problem/12837)|||||||
+|[2268. 수들의 합](https://www.acmicpc.net/problem/2268)|||||||
+|[2243. 사탕상자](https://www.acmicpc.net/problem/2243)|||||||
+
 ## README 작성
 
 `readme_update.py`를 실행해주세요.
