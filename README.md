@@ -44,7 +44,7 @@
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 |[7576. 토마토](https://www.acmicpc.net/problem/7576)|[cpp](Ikjae/7576.cpp)|[py](Jiin/7576.py)|[py](Joons/7576.py)|[py](ssung/7576.py)|[py](Hyungjoo/7576.py)|[py](Gilhee/7576.py)|
 |[16929. Two Dots](https://www.acmicpc.net/problem/16929)||[py](Jiin/16929.py)||[py](ssung/16929.py)||[py](Gilhee/16929.py)|
-|[13549. 숨바꼭질 3](https://www.acmicpc.net/problem/13549)|[cpp](Ikjae/13549.cpp)|||[py](ssung/13549.py)|[py](Hyungjoo/13549.py)|[py](Gilhee/13549.py)|
+|[13549. 숨바꼭질 3](https://www.acmicpc.net/problem/13549)|[cpp](Ikjae/13549.cpp)|[py](Jiin/13549.py)||[py](ssung/13549.py)|[py](Hyungjoo/13549.py)|[py](Gilhee/13549.py)|
 |[4963. 섬의 개수](https://www.acmicpc.net/problem/4963)|[cpp](Ikjae/4963.cpp)|[py](Jiin/4963.py)|[py](Joons/4963.py)|[py](ssung/4963.py)|[py](Hyungjoo/4963.py)|[py](Gilhee/4963.py)|
 |[16940. BFS 스페셜 저지](https://www.acmicpc.net/problem/16940)||||[py](ssung/16940.py)||[py](Gilhee/16940.py)|
 |[1261. 알고스팟](https://www.acmicpc.net/problem/1261)|[cpp](Ikjae/1261.cpp)|||[py](ssung/1261.py)|[py](Hyungjoo/1261.py)|[py](Gilhee/1261.py)|
@@ -122,7 +122,7 @@
 |문제|익재|지인|주남|진성|형주|길희|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 |[2230. 수 고르기](https://www.acmicpc.net/problem/2230)|||||[py](Hyungjoo/2230.py)|[py](Gilhee/2230.py)|
-|[1484. 다이어트](https://www.acmicpc.net/problem/1484)||||||[py](Gilhee/1484.py)|
+|[1484. 다이어트](https://www.acmicpc.net/problem/1484)|||||[py](Hyungjoo/1484.py)|[py](Gilhee/1484.py)|
 |[2531. 회전 초밥](https://www.acmicpc.net/problem/2531)||||||[py](Gilhee/2531.py)|
 |[2293. 동전 1](https://www.acmicpc.net/problem/2293)||||[py](ssung/2293.py)||[py](Gilhee/2293.py)|
 |[2096. 내려가기](https://www.acmicpc.net/problem/2096)|||||||
@@ -144,6 +144,35 @@
 |[12837. 가계부 (Hard)](https://www.acmicpc.net/problem/12837)|||||||
 |[2268. 수들의 합](https://www.acmicpc.net/problem/2268)|||||||
 |[2243. 사탕상자](https://www.acmicpc.net/problem/2243)|||||||
+
+### Floyd Warshall
+
+|문제|익재|지인|주남|진성|형주|길희|
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+|[11404. 플로이드](https://www.acmicpc.net/problem/11404)|||||||
+|[11403. 경로 찾기](https://www.acmicpc.net/problem/11403)|||||||
+|[1389. 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)|||||||
+|[1613. 역사](https://www.acmicpc.net/problem/1613)|||||||
+|[1956. 운동](https://www.acmicpc.net/problem/1956)|||||||
+|[13168. 내일로 여행](https://www.acmicpc.net/problem/13168)|||||||
+|[9205. 맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)|||||||
+|[2458. 키 순서](https://www.acmicpc.net/problem/2458)|||||||
+|[11562. 백양로 브레이크](https://www.acmicpc.net/problem/11562)|||||||
+
+### Backtracking
+
+|문제|익재|지인|주남|진성|형주|길희|
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+|[1182. 부분수열의 합](https://www.acmicpc.net/problem/1182)|||||||
+|[1987. 알파벳](https://www.acmicpc.net/problem/1987)|||||||
+|[9663. N-Queen](https://www.acmicpc.net/problem/9663)|||||||
+|[2580. 스도쿠](https://www.acmicpc.net/problem/2580)|||||||
+|[10597. 순열장난](https://www.acmicpc.net/problem/10597)|||||||
+|[2661. 좋은수열](https://www.acmicpc.net/problem/2661)|||||||
+|[17136. 색종이 붙이기](https://www.acmicpc.net/problem/17136)|||||||
+|[1189. 컴백홈](https://www.acmicpc.net/problem/1189)|||||||
+|[1405. 미친 로봇](https://www.acmicpc.net/problem/1405)|||||||
+|[1339. 단어 수학](https://www.acmicpc.net/problem/1339)|||||||
 
 ## README 작성
 
