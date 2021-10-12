@@ -46,7 +46,7 @@
 |[16929. Two Dots](https://www.acmicpc.net/problem/16929)||[py](Jiin/16929.py)||[py](ssung/16929.py)||[py](Gilhee/16929.py)|
 |[13549. 숨바꼭질 3](https://www.acmicpc.net/problem/13549)|[cpp](Ikjae/13549.cpp)|[py](Jiin/13549.py)||[py](ssung/13549.py)|[py](Hyungjoo/13549.py)|[py](Gilhee/13549.py)|
 |[4963. 섬의 개수](https://www.acmicpc.net/problem/4963)|[cpp](Ikjae/4963.cpp)|[py](Jiin/4963.py)|[py](Joons/4963.py)|[py](ssung/4963.py)|[py](Hyungjoo/4963.py)|[py](Gilhee/4963.py)|
-|[16940. BFS 스페셜 저지](https://www.acmicpc.net/problem/16940)||||[py](ssung/16940.py)||[py](Gilhee/16940.py)|
+|[16940. BFS 스페셜 저지](https://www.acmicpc.net/problem/16940)||||[py](ssung/16940.py)|[py](Hyungjoo/16940.py)|[py](Gilhee/16940.py)|
 |[1261. 알고스팟](https://www.acmicpc.net/problem/1261)|[cpp](Ikjae/1261.cpp)|||[py](ssung/1261.py)|[py](Hyungjoo/1261.py)|[py](Gilhee/1261.py)|
 |[2250. 트리의 높이와 너비](https://www.acmicpc.net/problem/2250)|[cpp](Ikjae/2250.cpp)||[py](Joons/2250.py)|[py](ssung/2250.py)||[py](Gilhee/2250.py)|
 |[1967. 트리의 지름](https://www.acmicpc.net/problem/1967)|[cpp](Ikjae/1967.cpp)|||[py](ssung/1967.py)|[py](Hyungjoo/1967.py)|[py](Gilhee/1967.py)|
@@ -71,7 +71,7 @@
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 |[1780. 종이의 개수](https://www.acmicpc.net/problem/1780)|[cpp](Ikjae/1780.cpp)|[py](Jiin/1780.py)|[py](Joons/1780.py)|[py](ssung/1780.py)|[py](Hyungjoo/1780.py)|[py](Gilhee/1780.py)|
 |[1074. Z](https://www.acmicpc.net/problem/1074)|[cpp](Ikjae/1074.cpp)|[py](Jiin/1074.py)|[py](Joons/1074.py)|[py](ssung/1074.py)|[py](Hyungjoo/1074.py)|[py](Gilhee/1074.py)|
-|[2448. 별 찍기 - 11](https://www.acmicpc.net/problem/2448)||[py](Jiin/2448.py)|[py](Joons/2448.py)|[py](ssung/2448.py)|||
+|[2448. 별 찍기 - 11](https://www.acmicpc.net/problem/2448)||[py](Jiin/2448.py)|[py](Joons/2448.py)|[py](ssung/2448.py)|[py](Hyungjoo/2448.py)||
 |[11729. 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)|||[py](Joons/11729.py)|[py](ssung/11729.py)||[py](Gilhee/11729.py)|
 |[2263. 트리의 순회](https://www.acmicpc.net/problem/2263)||||[py](ssung/2263.py)|[py](Hyungjoo/2263.py)|[py](Gilhee/2263.py)|
 |[1891. 사분면](https://www.acmicpc.net/problem/1891)|||[py](Joons/1891.py)|[py](ssung/1891.py)|[py](Hyungjoo/1891.py)|[py](Gilhee/1891.py)|
@@ -111,7 +111,7 @@
 |[1753. 최단경로](https://www.acmicpc.net/problem/1753)|[cpp](Ikjae/1753.cpp)||[py](Joons/1753.py)|[py](ssung/1753.py)|[py](Hyungjoo/1753.py)|[py](Gilhee/1753.py)|
 |[1238. 파티](https://www.acmicpc.net/problem/1238)|[cpp](Ikjae/1238.cpp)|||[py](ssung/1238.py)|[py](Hyungjoo/1238.py)|[py](Gilhee/1238.py)|
 |[10473. 인간 대포](https://www.acmicpc.net/problem/10473)||||||[py](Gilhee/10473.py)|
-|[1916. 최소비용 구하기](https://www.acmicpc.net/problem/1916)|[cpp](Ikjae/1916.cpp)|||[py](ssung/1916.py)|[py](Hyungjoo/1916.py)|[py](Gilhee/1916.py)|
+|[1916. 최소비용 구하기](https://www.acmicpc.net/problem/1916)|[cpp](Ikjae/1916.cpp)|[py](Jiin/1916.py)||[py](ssung/1916.py)|[py](Hyungjoo/1916.py)|[py](Gilhee/1916.py)|
 |[4485. 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)|[cpp](Ikjae/4485.cpp)|||[py](ssung/4485.py)||[py](Gilhee/4485.py)|
 |[1504. 특정한 최단 경로](https://www.acmicpc.net/problem/1504)|[cpp](Ikjae/1504.cpp)|||[py](ssung/1504.py)||[py](Gilhee/1504.py)|
 |[2211. 네트워크 복구](https://www.acmicpc.net/problem/2211)|[cpp](Ikjae/2211.cpp)|||||[py](Gilhee/2211.py)|
