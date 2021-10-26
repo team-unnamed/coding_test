@@ -167,7 +167,7 @@
 |[1987. 알파벳](https://www.acmicpc.net/problem/1987)|||||||
 |[9663. N-Queen](https://www.acmicpc.net/problem/9663)|||||||
 |[2580. 스도쿠](https://www.acmicpc.net/problem/2580)|||||||
-|[10597. 순열장난](https://www.acmicpc.net/problem/10597)|||||||
+|[10597. 순열장난](https://www.acmicpc.net/problem/10597)|||||[py](Hyungjoo/10597.py)||
 |[2661. 좋은수열](https://www.acmicpc.net/problem/2661)|||||||
 |[17136. 색종이 붙이기](https://www.acmicpc.net/problem/17136)|||||||
 |[1189. 컴백홈](https://www.acmicpc.net/problem/1189)|||||||
